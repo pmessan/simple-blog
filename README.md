@@ -13,7 +13,7 @@ This repo houses a simple blog website I built using NodeJS. Other technologies 
 
 ## Run it Locally
 ```
-git clone https://github.com/?? && cd simple-blog
+git clone https://github.com/pmessan/simple-blog.git && cd simple-blog
 npm start
 ```
  Your server should now be live on https://localhost:3000
